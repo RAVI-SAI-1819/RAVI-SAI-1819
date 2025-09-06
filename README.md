@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ravi Sai Chowdary Akkina
 
-<!--
-**RAVI-SAI-1819/RAVI-SAI-1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Java • Python • MERN | Cloud Learner (AWS AI in progress)  
+🎯 Passionate about building scalable, user-friendly web apps  
+📍 Based in Hyderabad, India
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: Java, Python, JavaScript, Go  
+- Frameworks: Spring Boot, React.js, Node.js, PySpark  
+- Databases: MySQL, PostgreSQL, MongoDB  
+- Tools: Git, Postman, VS Code, Maven, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Goals
+- 🧠 Crack the AWS AI exam  
+- 📄 Optimize resumes for Java, Python, MERN, and Data Engineering roles  
+- 🌐 Expand cloud and backend expertise
+
+## 📌 Featured Projects
+- 🔗 [Portfolio Website](#) – Responsive UI with React & Bootstrap  
+- 🔗 [Data Pipeline Demo](#) – PySpark + MongoDB + REST APIs  
+- 🔗 [Spring Boot REST API](#) – Secure backend with JWT & PostgreSQL
+
+---
+
+📬 Let's connect: [LinkedIn]() • [Email](mailto:ravisai@duck.com)  
+🧠 Always learning. Always building.
